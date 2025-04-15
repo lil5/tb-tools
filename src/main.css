@@ -1,0 +1,7 @@
+@import url(https://fonts.bunny.net/css?family=roboto:400,700|roboto-mono:400);
+
+input {
+  width: 390px;
+  max-width: calc(100vw - 40px);
+  font-family: "Roboto Mono", monospace;
+}
