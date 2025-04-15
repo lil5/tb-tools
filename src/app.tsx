@@ -5,7 +5,9 @@ import U129ToHex from "./components/U129ToHex";
 export function App() {
   return (
     <>
-      <h1>TigerBeetle u128 Tools</h1>
+      <h1>
+        TigerBeetle u128 Tools <sup>(unofficial)</sup>
+      </h1>
       <hr />
       <HexToU128 />
       <hr />
